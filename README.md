@@ -5,7 +5,7 @@ The study was conducted on a great foundation of research and literature review,
 
 # Datasets
 Training Dataset : (https://data.world/ahalps/social-influence-on-shopping) <br />
-Testing Dataset : (/fyp-questionnaire.csv) 
+Testing Dataset : (fyp-questionnaire.csv) 
 
 # Machine Learning Algorithms Applied
 Data Preparation
@@ -31,7 +31,7 @@ Clustering Models:
 3. Levenshtein Model - Clusters based on string distance matrix. 
 
 Evaluation: 
-1. Silhouette Width
+1. Silhouette Width 
 
 Results
 -------------------------
