@@ -36,10 +36,10 @@ Evaluation:
 Results
 -------------------------
 Silhouette Width identified PAM Clustering to have the best clustering performance in contrast to other techniques. 
-![sil-wid-pam](/results/sil-wid-pam.JPG)
+![sil-wid-pam](/results/sil-wid-pam.PNG)
 
 Test dataset is divided to four main demographics: Gender, Age, Location and Employment Status. Clustering analysis is as follows: 
-![res-1](/results/test-dataset-res.JPG)
+![res-1](/results/test-dataset-res.PNG)
 
 The following depicts the structure of each of the dominant clusters per demographic.  
-![res-2](/results/test-dataset-res-2.JPG)
+![res-2](/results/test-dataset-res-2.PNG)
