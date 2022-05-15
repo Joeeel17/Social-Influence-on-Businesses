@@ -4,8 +4,8 @@ This study focuses on understanding the social influence on businesses through s
 The study was conducted on a great foundation of research and literature review, where each selected ML technique and model were selected with understanding of how it seemed fitting to work with the datasets. Moreover, as part of creating realistic and more applicable insights, the study also conducted a data gathering phase (within local grounds) where responses were exported and used as the test dataset.    
 
 # Datasets
-Training Dataset : (https://data.world/ahalps/social-influence-on-shopping)
-Testing Dataset : () 
+Training Dataset : (https://data.world/ahalps/social-influence-on-shopping) 
+Testing Dataset : (/fyp-questionnaire.csv) 
 
 # Machine Learning Algorithms Applied
 Data Preparation
@@ -35,3 +35,11 @@ Evaluation:
 
 Results
 -------------------------
+Silhouette Width identified PAM Clustering to have the best clustering performance in contrast to other techniques. 
+![sil-wid-pam](/results/sil-wid-pam.JPG)
+
+Test dataset is divided to four main demographics: Gender, Age, Location and Employment Status. Clustering analysis is as follows: 
+![res-1](/results/test-dataset-res.JPG)
+
+The following depicts the structure of each of the dominant clusters per demographic.  
+![res-2](/results/test-dataset-res-2.JPG)
