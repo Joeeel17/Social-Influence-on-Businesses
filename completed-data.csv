@@ -1,0 +1,909 @@
+Segment.Type,Segment.Description,Answer,Count,Percentage
+Mobile,Global results,Facebook,20,0.205
+Mobile,Global results,Instagram,51,0.342
+Mobile,Global results,Snapchat,86,0.032
+Mobile,Global results,Twitter,1,0.067
+Mobile,Global results,None,24,0.354
+Web,Web,None,2,0.032
+Gender,Female voters,Facebook,13,0.199
+Gender,Female voters,Instagram,34,0.48
+Gender,Female voters,Snapchat,29,0.026
+Gender,Female voters,Twitter,57,0.051
+Gender,Female voters,None,8,0.243
+Gender,Male voters,Facebook,13,0.209
+Gender,Male voters,Instagram,7,0.243
+Gender,Male voters,Snapchat,56,0.036
+Gender,Male voters,Twitter,122,0.078
+Gender,Male voters,None,44,0.434
+University,University of Delaware,Facebook,1,0.333
+University,University of Delaware,Instagram,1,0.333
+University,University of Delaware,None,1,0.333
+University,University of Pennsylvania,Facebook,1,0.25
+University,University of Pennsylvania,Instagram,1,0.25
+University,University of Pennsylvania,None,2,0.5
+University,Students of New York,Instagram,21,0.467
+University,Students of New York,Snapchat,1,0.022
+University,Students of New York,Twitter,5,0.111
+University,Students of New York,None,18,0.4
+University,University of Central Arkansas,Instagram,1,0.031
+University,Northeastern University,Facebook,1,0.5
+University,Northeastern University,None,1,0.5
+University,West Virginia University ,None,2,0.049
+University,Northern Arizona University,Facebook,1,0.217
+University,"University of California, Santa Barbara",Facebook,1,0.152
+University,University of Memphis,None,1,0.031
+University,Auburn University,None,4,0.5
+University,Randolph-Macon College,Facebook,1,0.143
+University,Randolph-Macon College,Instagram,2,0.286
+University,Randolph-Macon College,Twitter,1,0.143
+University,Randolph-Macon College,None,3,0.429
+University,Wisconsin HS,Snapchat,1,0.217
+University,Penn State University,Instagram,1,0.333
+University,Penn State University,Snapchat,1,0.333
+University,Penn State University,None,1,0.333
+University,Case Western Reserve University,Facebook,1,0.25
+University,Case Western Reserve University,None,3,0.75
+University,Rutgers University,None,1,0.217
+University,University of Oregon,Facebook,1,0.25
+University,University of Oregon,Snapchat,2,0.5
+University,University of Oregon,None,1,0.25
+University,University of Toronto,Facebook,1,0.333
+University,University of Toronto,Instagram,1,0.333
+University,University of Toronto,None,1,0.333
+University,State University of New York Geneso,None,1,0.022
+University,Carthage College,None,1,0.031
+University,University of South Carolina,None,4,0.078
+University,Wesleyan University,Facebook,1,0.217
+University,Memorial University of Newfoundland,None,1,0.262
+University,University of Kansas,Twitter,1,0.217
+University,University of Redlands,Instagram,2,0.032
+University,University of Arkansas,Facebook,1,0.053
+University,University of Arkansas,Instagram,10,0.526
+University,University of Arkansas,Twitter,3,0.158
+University,University of Arkansas,None,5,0.263
+University,Richland High School,None,1,0.262
+University,Wake Forest University,Facebook,1,0.262
+University,Iowa State University,Instagram,1,0.333
+University,Iowa State University,None,2,0.667
+University,Florida Gulf Coast University,Instagram,1,0.262
+University,University of Central Missouri,Facebook,1,0.333
+University,University of Central Missouri,None,2,0.667
+University,California State University Long Beach,Instagram,1,0.031
+University,Chaparral High School,Instagram,1,0.152
+University,Colorado Academy,Facebook,1,0.5
+University,Colorado Academy,None,1,0.5
+University,United States Naval Academy,None,1,0.217
+University,University of Wisconsin-Whitewater,Twitter,1,0.152
+University,Lock Haven University,Facebook,1,0.262
+University,Kalamazoo College,Instagram,1,0.031
+University,Stanford University,Facebook,2,0.222
+University,Stanford University,Instagram,2,0.222
+University,Stanford University,None,5,0.556
+University,Vanderbilt University,Facebook,15,0.375
+University,Vanderbilt University,Instagram,11,0.275
+University,Vanderbilt University,Snapchat,1,0.025
+University,Vanderbilt University,None,13,0.325
+University,Chapman University,Facebook,2,0.2
+University,Chapman University,Instagram,6,0.6
+University,Chapman University,None,2,0.2
+University,Missouri State University,Facebook,3,0.12
+University,Missouri State University,Instagram,10,0.4
+University,Missouri State University,Twitter,2,0.08
+University,Missouri State University,None,10,0.4
+University,Emory University,Facebook,15,0.319
+University,Emory University,Instagram,14,0.298
+University,Emory University,Snapchat,2,0.043
+University,Emory University,Twitter,1,0.021
+University,Emory University,None,15,0.319
+University,University of Richmond,Facebook,3,0.6
+University,University of Richmond,None,2,0.4
+University,Medford High School,None,1,0.262
+University,University of British Columbia,Facebook,1,0.333
+University,University of British Columbia,None,2,0.667
+University,Colby College,Instagram,2,0.049
+University,Bates College,Facebook,8,0.17
+University,Bates College,Instagram,18,0.383
+University,Bates College,Twitter,4,0.085
+University,Bates College,None,17,0.362
+University,"Westport, CT",Facebook,1,0.031
+University,Whitman College,Facebook,5,0.227
+University,Whitman College,Instagram,5,0.227
+University,Whitman College,Snapchat,3,0.136
+University,Whitman College,None,9,0.409
+University,Thompson Rivers University ,Instagram,1,0.5
+University,Thompson Rivers University ,None,1,0.5
+University,University of Central Florida,None,2,0.049
+University,University of Montana ,Instagram,2,0.032
+University,University of Nebraska,None,1,0.022
+University,Whatsgoodly University,Instagram,1,0.217
+University,Tufts University,Facebook,4,0.4
+University,Tufts University,Instagram,3,0.3
+University,Tufts University,None,3,0.3
+University,Texas Tech University,Instagram,1,0.217
+University,Kansas State University,None,1,0.152
+University,University of Notre Dame,None,1,0.022
+University,University of Georgia,Instagram,2,0.071
+University,Ohio University,None,1,0.152
+University,Washington State University,Instagram,2,0.032
+University,Binghamtom University,None,1,0.217
+University,George Washington University,Instagram,1,0.262
+University,University of Alabama,Instagram,1,0.2
+University,University of Alabama,Snapchat,1,0.2
+University,University of Alabama,None,3,0.6
+University,University of Florida,Instagram,1,0.333
+University,University of Florida,Twitter,1,0.333
+University,University of Florida,None,1,0.333
+University,The College of New Jersey,None,1,0.152
+University,Florida State University,Instagram,1,0.152
+University,Santa Clara University,Facebook,1,0.333
+University,Santa Clara University,None,2,0.667
+University,Appalachian State University,Facebook,5,0.172
+University,Appalachian State University,Instagram,9,0.31
+University,Appalachian State University,Twitter,3,0.103
+University,Appalachian State University,None,12,0.414
+University,Arbroath Academy,Twitter,1,0.217
+University,Arkansas Tech University ,None,1,0.022
+University,University of Rhode Island,Snapchat,1,0.5
+University,University of Rhode Island,None,1,0.5
+University,Virginia Tech,Facebook,1,0.333
+University,Virginia Tech,Instagram,2,0.667
+University,Syracuse University,Facebook,1,0.333
+University,Syracuse University,None,2,0.667
+University,Cypress Creek High School,Instagram,1,0.152
+University,Union High School,None,1,0.031
+University,College of William and Mary,Facebook,25,0.287
+University,College of William and Mary,Instagram,25,0.287
+University,College of William and Mary,Snapchat,5,0.057
+University,College of William and Mary,Twitter,2,0.023
+University,College of William and Mary,None,30,0.345
+University,Ohio State University,None,4,0.037
+University,Gulf Breeze High School,Snapchat,1,0.262
+University,Cal Poly San Luis Obispo,None,2,0.049
+University,Oklahoma State University ,Twitter,1,0.152
+University,University of Texas,Facebook,13,0.342
+University,University of Texas,Instagram,11,0.289
+University,University of Texas,Snapchat,1,0.026
+University,University of Texas,None,13,0.342
+University,Hampden-Sydney College ,None,2,0.05
+University,University of Arizona,Facebook,8,0.157
+University,University of Arizona,Instagram,27,0.529
+University,University of Arizona,Snapchat,2,0.039
+University,University of Arizona,Twitter,5,0.098
+University,University of Arizona,None,9,0.176
+University,Coventry University,Instagram,2,0.038
+University,Rochester Institute of Technology,Snapchat,2,0.667
+University,Rochester Institute of Technology,None,1,0.333
+University,Colgate University,None,2,0.071
+University,Northwestern University,Facebook,30,0.261
+University,Northwestern University,Instagram,47,0.409
+University,Northwestern University,Snapchat,4,0.035
+University,Northwestern University,Twitter,4,0.035
+University,Northwestern University,None,30,0.261
+University,Saginaw Valley State University,Twitter,1,0.217
+University,University of Michigan,Facebook,12,0.231
+University,University of Michigan,Instagram,16,0.308
+University,University of Michigan,Snapchat,1,0.019
+University,University of Michigan,Twitter,2,0.038
+University,University of Michigan,None,21,0.404
+University,Boise State University,Instagram,1,0.152
+University,Cornell University,Facebook,35,0.287
+University,Cornell University,Instagram,44,0.361
+University,Cornell University,Snapchat,4,0.033
+University,Cornell University,Twitter,1,0.008
+University,Cornell University,None,38,0.311
+University,University of New Hampshire,Facebook,3,0.429
+University,University of New Hampshire,Instagram,2,0.286
+University,University of New Hampshire,Twitter,1,0.143
+University,University of New Hampshire,None,1,0.143
+University,UMass Dartmouth,None,2,0.032
+University,High Point University,None,2,0.032
+University,University of Minnesota,Instagram,2,0.5
+University,University of Minnesota,None,2,0.5
+University,Claremont McKenna College,Facebook,14,0.187
+University,Claremont McKenna College,Instagram,32,0.427
+University,Claremont McKenna College,Snapchat,1,0.013
+University,Claremont McKenna College,Twitter,5,0.067
+University,Claremont McKenna College,None,23,0.307
+University,University of Central Oklahoma,Instagram,2,0.032
+University,Illinois State,Facebook,3,0.25
+University,Illinois State,Instagram,1,0.083
+University,Illinois State,Snapchat,1,0.083
+University,Illinois State,None,7,0.583
+University,University of Guelph,Instagram,1,0.022
+University,Queens University,Instagram,1,0.5
+University,Queens University,None,1,0.5
+University,University of Colorado Boulder,Facebook,1,0.333
+University,University of Colorado Boulder,None,2,0.667
+University,University of Virginia,Facebook,64,0.25
+University,University of Virginia,Instagram,75,0.293
+University,University of Virginia,Snapchat,10,0.039
+University,University of Virginia,Twitter,12,0.047
+University,University of Virginia,None,95,0.371
+University,Villanova University,Facebook,2,0.038
+University,Centre College,None,2,0.071
+University,Johns Hopkins University,Facebook,3,0.25
+University,Johns Hopkins University,Instagram,1,0.083
+University,Johns Hopkins University,Twitter,1,0.083
+University,Johns Hopkins University,None,7,0.583
+University,University of Wisconsin-Madison,Facebook,26,0.252
+University,University of Wisconsin-Madison,Instagram,35,0.34
+University,University of Wisconsin-Madison,Snapchat,1,0.01
+University,University of Wisconsin-Madison,Twitter,7,0.068
+University,University of Wisconsin-Madison,None,34,0.33
+University,Dartmouth College,Facebook,7,0.412
+University,Dartmouth College,Instagram,1,0.059
+University,Dartmouth College,Twitter,1,0.059
+University,Dartmouth College,None,8,0.471
+University,Purdue University,Facebook,1,0.059
+University,Purdue University,Instagram,2,0.118
+University,Purdue University,Twitter,1,0.059
+University,Purdue University,None,13,0.765
+University,San Diego State University,Facebook,24,0.142
+University,San Diego State University,Instagram,84,0.497
+University,San Diego State University,Snapchat,4,0.024
+University,San Diego State University,Twitter,13,0.077
+University,San Diego State University,None,44,0.26
+University,Michigan State University,Facebook,1,0.5
+University,Michigan State University,None,1,0.5
+University,Butler University,Facebook,9,0.273
+University,Butler University,Instagram,13,0.394
+University,Butler University,Twitter,5,0.152
+University,Butler University,None,6,0.182
+University,Indiana University,Facebook,18,0.225
+University,Indiana University,Instagram,24,0.3
+University,Indiana University,Snapchat,4,0.05
+University,Indiana University,Twitter,10,0.125
+University,Indiana University,None,24,0.3
+University,"University of California, Berkeley",Facebook,12,0.3
+University,"University of California, Berkeley",Instagram,11,0.275
+University,"University of California, Berkeley",Snapchat,1,0.025
+University,"University of California, Berkeley",Twitter,1,0.025
+University,"University of California, Berkeley",None,15,0.375
+University,University of Missouri,Facebook,4,0.167
+University,University of Missouri,Instagram,3,0.125
+University,University of Missouri,Twitter,4,0.167
+University,University of Missouri,None,13,0.542
+University,Texas Christian University,Facebook,5,0.217
+University,Texas Christian University,Instagram,8,0.348
+University,Texas Christian University,Snapchat,1,0.043
+University,Texas Christian University,Twitter,3,0.13
+University,Texas Christian University,None,6,0.261
+University,Truman State University,Facebook,18,0.36
+University,Truman State University,Instagram,15,0.3
+University,Truman State University,Snapchat,1,0.02
+University,Truman State University,Twitter,2,0.04
+University,Truman State University,None,14,0.28
+University,University of Illinois,Facebook,18,0.209
+University,University of Illinois,Instagram,24,0.279
+University,University of Illinois,Snapchat,3,0.035
+University,University of Illinois,Twitter,7,0.081
+University,University of Illinois,None,34,0.395
+University,University of Washington,Facebook,12,0.245
+University,University of Washington,Instagram,19,0.388
+University,University of Washington,Snapchat,1,0.02
+University,University of Washington,Twitter,2,0.041
+University,University of Washington,None,15,0.306
+University,University of North Carolina,Facebook,14,0.241
+University,University of North Carolina,Instagram,16,0.276
+University,University of North Carolina,Snapchat,2,0.034
+University,University of North Carolina,Twitter,5,0.086
+University,University of North Carolina,None,21,0.362
+University,Miami University (Ohio),Facebook,4,0.222
+University,Miami University (Ohio),Instagram,7,0.389
+University,Miami University (Ohio),Twitter,2,0.111
+University,Miami University (Ohio),None,5,0.278
+University,"University of California, Los Angeles",Facebook,1,0.262
+University,Wilfred Laurier University,Instagram,1,0.031
+University,University of California Riverside,None,1,0.217
+University,University of Iowa,Twitter,1,0.262
+University,University of California Irvine,Instagram,1,0.5
+University,University of California Irvine,None,1,0.5
+University,"University of California, Davis",None,2,0.05
+University,University of Waterloo,Instagram,1,0.5
+University,University of Waterloo,None,1,0.5
+University,Grand Valley State University,None,1,0.262
+University,Baylor University,None,1,0.031
+University,Southern Methodist University,Facebook,3,0.214
+University,Southern Methodist University,Instagram,3,0.214
+University,Southern Methodist University,Snapchat,1,0.071
+University,Southern Methodist University,None,7,0.5
+University,Blinn College,Facebook,1,0.217
+University,Texas A&M University,Facebook,7,0.2
+University,Texas A&M University,Instagram,11,0.314
+University,Texas A&M University,Snapchat,4,0.114
+University,Texas A&M University,Twitter,3,0.086
+University,Texas A&M University,None,10,0.286
+University,Wellesley College,None,1,0.262
+University,Central Washington University,Instagram,1,0.022
+University,Stellenbosch University,Facebook,1,0.5
+University,Stellenbosch University,None,1,0.5
+University,Universidad Nacional de Costa Rica,None,1,0.152
+University,Kennesaw State University,Instagram,1,0.262
+University,Newcastle University,Instagram,1,0.031
+University,University of West Georgia ,Facebook,1,0.262
+University,Azusa Pacific University,Instagram,1,0.262
+University,University of Connecticut,Facebook,1,0.217
+University,Boston University,Instagram,1,0.152
+University,Colorado State University,Twitter,1,0.031
+University,Clemson University,Instagram,1,0.217
+University,University of Rochester,Instagram,1,0.031
+University,James Madison University,None,1,0.262
+University,Stephen F. Austin State University,None,1,0.031
+University,Loyola University Maryland,None,1,0.152
+University,Michigan Technological University,Facebook,1,0.217
+University,Texas State University,Instagram,1,0.262
+University,University of Tennessee at Chattanooga,Instagram,1,0.333
+University,University of Tennessee at Chattanooga,None,2,0.667
+University,Seton Hall University,Twitter,1,0.5
+University,Seton Hall University,None,1,0.5
+University,Roger Williams University,None,1,0.022
+University,Elon University,None,1,0.217
+University,Emily Carr University of Art and Design,Twitter,1,0.262
+University,United States Military Academy,Instagram,1,0.152
+University,Indiana University of Pennsylvania,Instagram,1,0.5
+University,Indiana University of Pennsylvania,None,1,0.5
+University,University of Tampa,Facebook,1,0.022
+University,Essex Technical High School,Instagram,1,0.152
+University,University of North Carolina at Greensboro,Instagram,1,0.5
+University,University of North Carolina at Greensboro,None,1,0.5
+University,Pinnacle High School,Instagram,1,0.031
+University,Baltimore City College,None,1,0.217
+University,New York University,None,1,0.262
+University,Indiana University-Purdue University Indianapolis,Instagram,1,0.031
+University,Loyola Marymount University,Instagram,1,0.5
+University,Loyola Marymount University,None,1,0.5
+University,University of Dayton,None,1,0.262
+University,UMass Amherst,Facebook,1,0.5
+University,UMass Amherst,Instagram,1,0.5
+University,Brock University,Instagram,1,0.031
+University,Kutztown University,Twitter,1,0.217
+University,University of Mississippi,Instagram,1,0.022
+University,University of Mount Union,None,1,0.262
+University,Duke University,Twitter,1,0.5
+University,Duke University,None,1,0.5
+University,Shippensburg University,Twitter,1,0.217
+Custom,Tall,Facebook,54,0.184
+Custom,Tall,Instagram,96,0.327
+Custom,Tall,Snapchat,7,0.024
+Custom,Tall,Twitter,17,0.058
+Custom,Tall,None,120,0.408
+Custom,Medium,Facebook,95,0.153
+Custom,Medium,Instagram,18,0.28
+Custom,Medium,Snapchat,17,0.027
+Custom,Medium,Twitter,52,0.084
+Custom,Medium,None,53,0.456
+Custom,Short,Facebook,40,0.18
+Custom,Short,Instagram,76,0.342
+Custom,Short,Snapchat,9,0.041
+Custom,Short,Twitter,21,0.095
+Custom,Short,None,76,0.342
+Custom,Private,Facebook,61,0.169
+Custom,Private,Instagram,105,0.29
+Custom,Private,Snapchat,8,0.022
+Custom,Private,Twitter,20,0.055
+Custom,Private,None,12,0.464
+Custom,Console Gamer,Facebook,20,0.135
+Custom,Console Gamer,Instagram,37,0.25
+Custom,Console Gamer,Snapchat,8,0.054
+Custom,Console Gamer,Twitter,22,0.149
+Custom,Console Gamer,None,61,0.412
+Custom,Upper class (> $240K),Facebook,70,0.23
+Custom,Upper class (> $240K),Instagram,83,0.273
+Custom,Upper class (> $240K),Snapchat,8,0.026
+Custom,Upper class (> $240K),Twitter,13,0.043
+Custom,Upper class (> $240K),None,83,0.428
+Custom,Upper-middle class (~$160K),Facebook,71,0.157
+Custom,Upper-middle class (~$160K),Instagram,8,0.33
+Custom,Upper-middle class (~$160K),Snapchat,11,0.024
+Custom,Upper-middle class (~$160K),Twitter,42,0.093
+Custom,Upper-middle class (~$160K),None,65,0.395
+Custom,Middle class (~$90K),Facebook,41,0.121
+Custom,Middle class (~$90K),Instagram,111,0.326
+Custom,Middle class (~$90K),Snapchat,12,0.035
+Custom,Middle class (~$90K),Twitter,32,0.094
+Custom,Middle class (~$90K),None,36,0.424
+Custom,Lower class (< ~$50K),Facebook,15,0.112
+Custom,Lower class (< ~$50K),Instagram,45,0.336
+Custom,Lower class (< ~$50K),Snapchat,7,0.052
+Custom,Lower class (< ~$50K),Twitter,10,0.075
+Custom,Lower class (< ~$50K),None,57,0.425
+Custom,Engineering Major,Facebook,40,0.183
+Custom,Engineering Major,Instagram,47,0.215
+Custom,Engineering Major,Snapchat,8,0.037
+Custom,Engineering Major,Twitter,14,0.064
+Custom,Engineering Major,None,110,0.502
+Custom,No School,Facebook,4,0.125
+Custom,No School,Instagram,10,0.313
+Custom,No School,Snapchat,1,0.031
+Custom,No School,Twitter,1,0.031
+Custom,No School,None,16,0.5
+Custom,Public School,Facebook,117,0.153
+Custom,Public School,Instagram,26,0.326
+Custom,Public School,Snapchat,27,0.035
+Custom,Public School,Twitter,69,0.09
+Custom,Public School,None,15,0.396
+Custom,Voted for D. Trump,Facebook,87,0.175
+Custom,Voted for D. Trump,Instagram,37,0.321
+Custom,Voted for D. Trump,Snapchat,19,0.038
+Custom,Voted for D. Trump,Twitter,50,0.101
+Custom,Voted for D. Trump,None,1,0.365
+Custom,Voted for H. Clinton,Facebook,4,0.236
+Custom,Voted for H. Clinton,Instagram,51,0.342
+Custom,Voted for H. Clinton,Snapchat,22,0.026
+Custom,Voted for H. Clinton,Twitter,38,0.046
+Custom,Voted for H. Clinton,None,16,0.349
+Custom,Business/Finance Major,Facebook,39,0.245
+Custom,Business/Finance Major,Instagram,35,0.22
+Custom,Business/Finance Major,Snapchat,10,0.063
+Custom,Business/Finance Major,Twitter,11,0.069
+Custom,Business/Finance Major,None,64,0.403
+Custom,Medical Major,Facebook,39,0.245
+Custom,Medical Major,Instagram,58,0.365
+Custom,Medical Major,Snapchat,6,0.038
+Custom,Medical Major,Twitter,5,0.031
+Custom,Medical Major,None,51,0.321
+Custom,Asian,Facebook,51,0.266
+Custom,Asian,Instagram,61,0.318
+Custom,Asian,Snapchat,7,0.036
+Custom,Asian,Twitter,4,0.021
+Custom,Asian,None,69,0.359
+Custom,Others (Race),Facebook,15,0.229
+Custom,Others (Race),Instagram,60,0.308
+Custom,Others (Race),Snapchat,21,0.028
+Custom,Others (Race),Twitter,35,0.047
+Custom,Others (Race),None,27,0.389
+Custom,Jewish,Facebook,68,0.291
+Custom,Jewish,Instagram,68,0.291
+Custom,Jewish,Snapchat,9,0.038
+Custom,Jewish,Twitter,6,0.026
+Custom,Jewish,None,83,0.355
+Custom,Student Trekker,Facebook,1,0.022
+Custom,Not Feminist,Facebook,45,0.157
+Custom,Not Feminist,Instagram,58,0.203
+Custom,Not Feminist,Snapchat,11,0.038
+Custom,Not Feminist,Twitter,22,0.077
+Custom,Not Feminist,None,59,0.524
+Custom,Feminist,Facebook,34,0.167
+Custom,Feminist,Instagram,65,0.319
+Custom,Feminist,Snapchat,6,0.029
+Custom,Feminist,Twitter,13,0.064
+Custom,Feminist,None,86,0.422
+Custom,In a relationship,Facebook,53,0.17
+Custom,In a relationship,Instagram,105,0.337
+Custom,In a relationship,Snapchat,8,0.026
+Custom,In a relationship,Twitter,22,0.071
+Custom,In a relationship,None,124,0.397
+Custom,Single,Facebook,20,0.164
+Custom,Single,Instagram,31,0.314
+Custom,Single,Snapchat,25,0.032
+Custom,Single,Twitter,57,0.073
+Custom,Single,None,13,0.417
+Custom,No Student Debt,Facebook,24,0.213
+Custom,No Student Debt,Instagram,66,0.33
+Custom,No Student Debt,Snapchat,47,0.031
+Custom,No Student Debt,Twitter,99,0.065
+Custom,No Student Debt,None,2,0.361
+Custom,Have Student Debt,Facebook,41,0.193
+Custom,Have Student Debt,Instagram,5,0.337
+Custom,Have Student Debt,Snapchat,21,0.027
+Custom,Have Student Debt,Twitter,60,0.078
+Custom,Have Student Debt,None,1,0.364
+Custom,Not Virgin,Facebook,24,0.213
+Custom,Not Virgin,Instagram,22,0.341
+Custom,Not Virgin,Snapchat,51,0.03
+Custom,Not Virgin,Twitter,108,0.064
+Custom,Not Virgin,None,13,0.351
+Custom,Virgin,Facebook,104,0.179
+Custom,Virgin,Instagram,5,0.311
+Custom,Virgin,Snapchat,18,0.031
+Custom,Virgin,Twitter,47,0.081
+Custom,Virgin,None,78,0.399
+Custom,Did Not Vote,Facebook,58,0.199
+Custom,Did Not Vote,Instagram,97,0.333
+Custom,Did Not Vote,Snapchat,9,0.031
+Custom,Did Not Vote,Twitter,20,0.069
+Custom,Did Not Vote,None,107,0.368
+Custom,Voted for B. Sanders,Facebook,28,0.2
+Custom,Voted for B. Sanders,Instagram,53,0.379
+Custom,Voted for B. Sanders,Snapchat,3,0.021
+Custom,Voted for B. Sanders,Twitter,8,0.057
+Custom,Voted for B. Sanders,None,48,0.343
+Custom,Voted for Others,Facebook,18,0.3
+Custom,Voted for Others,Instagram,19,0.317
+Custom,Voted for Others,Snapchat,4,0.067
+Custom,Voted for Others,Twitter,3,0.05
+Custom,Voted for Others,None,16,0.267
+Custom,Voted for G. Johnson,Facebook,62,0.242
+Custom,Voted for G. Johnson,Instagram,60,0.234
+Custom,Voted for G. Johnson,Snapchat,5,0.02
+Custom,Voted for G. Johnson,Twitter,16,0.063
+Custom,Voted for G. Johnson,None,113,0.441
+Custom,Quoisexual,Facebook,13,0.277
+Custom,Quoisexual,Instagram,18,0.383
+Custom,Quoisexual,Snapchat,1,0.021
+Custom,Quoisexual,Twitter,2,0.043
+Custom,Quoisexual,None,13,0.277
+Custom,Bisexual,Facebook,17,0.205
+Custom,Bisexual,Instagram,35,0.422
+Custom,Bisexual,Snapchat,2,0.024
+Custom,Bisexual,Twitter,7,0.084
+Custom,Bisexual,None,22,0.265
+Custom,Queer,Facebook,5,0.227
+Custom,Queer,Instagram,4,0.182
+Custom,Queer,Snapchat,1,0.045
+Custom,Queer,Twitter,2,0.091
+Custom,Queer,None,10,0.455
+Custom,Like Greek,Facebook,53,0.22
+Custom,Like Greek,Instagram,78,0.324
+Custom,Like Greek,Snapchat,12,0.05
+Custom,Like Greek,Twitter,19,0.079
+Custom,Like Greek,None,79,0.328
+Custom,Capricorn,Facebook,5,0.057
+Custom,Capricorn,Instagram,33,0.375
+Custom,Capricorn,Snapchat,2,0.023
+Custom,Capricorn,Twitter,3,0.034
+Custom,Capricorn,None,45,0.511
+Custom,Sagittarius,Facebook,11,0.131
+Custom,Sagittarius,Instagram,26,0.31
+Custom,Sagittarius,Snapchat,2,0.024
+Custom,Sagittarius,Twitter,11,0.131
+Custom,Sagittarius,None,34,0.405
+Custom,Scorpio,Facebook,14,0.132
+Custom,Scorpio,Instagram,29,0.274
+Custom,Scorpio,Snapchat,4,0.038
+Custom,Scorpio,Twitter,10,0.094
+Custom,Scorpio,None,49,0.462
+Custom,Libra,Facebook,14,0.167
+Custom,Libra,Instagram,30,0.357
+Custom,Libra,Snapchat,1,0.012
+Custom,Libra,Twitter,6,0.071
+Custom,Libra,None,33,0.393
+Custom,Virgo,Facebook,18,0.135
+Custom,Virgo,Instagram,40,0.301
+Custom,Virgo,Snapchat,8,0.06
+Custom,Virgo,Twitter,8,0.06
+Custom,Virgo,None,59,0.444
+Custom,Leo,Facebook,16,0.188
+Custom,Leo,Instagram,26,0.306
+Custom,Leo,Snapchat,2,0.024
+Custom,Leo,Twitter,6,0.071
+Custom,Leo,None,35,0.412
+Custom,Cancer,Facebook,13,0.127
+Custom,Cancer,Instagram,28,0.275
+Custom,Cancer,Snapchat,3,0.029
+Custom,Cancer,Twitter,12,0.118
+Custom,Cancer,None,46,0.451
+Custom,Gemini,Facebook,12,0.133
+Custom,Gemini,Instagram,36,0.4
+Custom,Gemini,Snapchat,2,0.022
+Custom,Gemini,Twitter,6,0.067
+Custom,Gemini,None,34,0.378
+Custom,Taurus,Facebook,23,0.235
+Custom,Taurus,Instagram,27,0.276
+Custom,Taurus,Snapchat,2,0.02
+Custom,Taurus,Twitter,7,0.071
+Custom,Taurus,None,39,0.398
+Custom,Aries,Facebook,19,0.184
+Custom,Aries,Instagram,32,0.311
+Custom,Aries,Snapchat,7,0.068
+Custom,Aries,Twitter,9,0.087
+Custom,Aries,None,36,0.35
+Custom,Pisces,Facebook,12,0.14
+Custom,Pisces,Instagram,27,0.314
+Custom,Pisces,Snapchat,1,0.012
+Custom,Pisces,Twitter,5,0.058
+Custom,Pisces,None,41,0.477
+Custom,Aquarius,Facebook,25,0.243
+Custom,Aquarius,Instagram,26,0.252
+Custom,Aquarius,Snapchat,2,0.019
+Custom,Aquarius,Twitter,6,0.058
+Custom,Aquarius,None,44,0.427
+Custom,English Mother Tongue,Facebook,2,0.16
+Custom,English Mother Tongue,Instagram,60,0.307
+Custom,English Mother Tongue,Snapchat,38,0.036
+Custom,English Mother Tongue,Twitter,76,0.073
+Custom,English Mother Tongue,None,15,0.424
+Custom,Not Job Seeking,Facebook,3,0.214
+Custom,Not Job Seeking,Instagram,1,0.323
+Custom,Not Job Seeking,Snapchat,37,0.04
+Custom,Not Job Seeking,Twitter,68,0.073
+Custom,Not Job Seeking,None,5,0.351
+Custom,Marketing Major,Facebook,37,0.308
+Custom,Marketing Major,Instagram,40,0.333
+Custom,Marketing Major,Snapchat,2,0.017
+Custom,Marketing Major,Twitter,6,0.05
+Custom,Marketing Major,None,35,0.292
+Custom,Unsure (Major),Facebook,80,0.175
+Custom,Unsure (Major),Instagram,92,0.329
+Custom,Unsure (Major),Snapchat,15,0.033
+Custom,Unsure (Major),Twitter,33,0.072
+Custom,Unsure (Major),None,81,0.39
+Custom,Humanities Major,Facebook,74,0.227
+Custom,Humanities Major,Instagram,35,0.366
+Custom,Humanities Major,Snapchat,18,0.023
+Custom,Humanities Major,Twitter,47,0.059
+Custom,Humanities Major,None,26,0.325
+Custom,Workout 1hr/month,Facebook,45,0.238
+Custom,Workout 1hr/month,Instagram,58,0.307
+Custom,Workout 1hr/month,Snapchat,6,0.032
+Custom,Workout 1hr/month,Twitter,8,0.042
+Custom,Workout 1hr/month,None,72,0.381
+Custom,Workout <1hr/month,Facebook,43,0.204
+Custom,Workout <1hr/month,Instagram,74,0.351
+Custom,Workout <1hr/month,Snapchat,4,0.019
+Custom,Workout <1hr/month,Twitter,20,0.095
+Custom,Workout <1hr/month,None,70,0.332
+Custom,Others (Race),Facebook,20,0.217
+Custom,Others (Race),Instagram,34,0.37
+Custom,Others (Race),Snapchat,3,0.033
+Custom,Others (Race),Twitter,1,0.011
+Custom,Others (Race),None,34,0.37
+Custom,Native American,Facebook,2,0.154
+Custom,Native American,Instagram,6,0.462
+Custom,Native American,Twitter,2,0.154
+Custom,Native American,None,3,0.231
+Custom,Liberal,Facebook,2,0.223
+Custom,Liberal,Instagram,19,0.349
+Custom,Liberal,Snapchat,19,0.023
+Custom,Liberal,Twitter,54,0.065
+Custom,Liberal,None,2,0.341
+Custom,Conservative,Facebook,10,0.196
+Custom,Conservative,Instagram,26,0.327
+Custom,Conservative,Snapchat,27,0.037
+Custom,Conservative,Twitter,60,0.082
+Custom,Conservative,None,35,0.359
+Custom,Others (Education),Facebook,3,0.158
+Custom,Others (Education),Instagram,6,0.316
+Custom,Others (Education),Snapchat,2,0.105
+Custom,Others (Education),None,8,0.421
+Custom,Grad School,Facebook,7,0.171
+Custom,Grad School,Instagram,13,0.317
+Custom,Grad School,Snapchat,4,0.098
+Custom,Grad School,Twitter,3,0.073
+Custom,Grad School,None,14,0.341
+Custom,Full-Time Job,Facebook,23,0.187
+Custom,Full-Time Job,Instagram,37,0.301
+Custom,Full-Time Job,Snapchat,6,0.049
+Custom,Full-Time Job,Twitter,6,0.049
+Custom,Full-Time Job,None,51,0.415
+Custom,GPA 3.0 - 4.0,Facebook,22,0.222
+Custom,GPA 3.0 - 4.0,Instagram,37,0.321
+Custom,GPA 3.0 - 4.0,Snapchat,47,0.03
+Custom,GPA 3.0 - 4.0,Twitter,99,0.063
+Custom,GPA 3.0 - 4.0,None,68,0.365
+Custom,GPA < 1.0,Facebook,9,0.188
+Custom,GPA < 1.0,Instagram,15,0.313
+Custom,GPA < 1.0,Snapchat,1,0.021
+Custom,GPA < 1.0,Twitter,4,0.083
+Custom,GPA < 1.0,None,19,0.396
+Custom,Black,Facebook,13,0.138
+Custom,Black,Instagram,41,0.436
+Custom,Black,Snapchat,3,0.032
+Custom,Black,Twitter,8,0.085
+Custom,Black,None,29,0.309
+Custom,Others (Technology),Facebook,8,0.154
+Custom,Others (Technology),Instagram,11,0.212
+Custom,Others (Technology),Snapchat,3,0.058
+Custom,Others (Technology),Twitter,4,0.077
+Custom,Others (Technology),None,26,0.5
+Custom,Dislike Greek Life,Facebook,98,0.166
+Custom,Dislike Greek Life,Instagram,98,0.277
+Custom,Dislike Greek Life,Snapchat,16,0.027
+Custom,Dislike Greek Life,Twitter,44,0.074
+Custom,Dislike Greek Life,None,34,0.456
+Custom,Mac,Facebook,1,0.215
+Custom,Mac,Instagram,18,0.375
+Custom,Mac,Snapchat,38,0.026
+Custom,Mac,Twitter,93,0.064
+Custom,Mac,None,37,0.321
+Custom,Regret Greek Life,Facebook,20,0.222
+Custom,Regret Greek Life,Instagram,33,0.367
+Custom,Regret Greek Life,Snapchat,1,0.011
+Custom,Regret Greek Life,Twitter,7,0.078
+Custom,Regret Greek Life,None,29,0.322
+Custom,In Greek Life,Facebook,87,0.247
+Custom,In Greek Life,Instagram,51,0.34
+Custom,In Greek Life,Snapchat,33,0.03
+Custom,In Greek Life,Twitter,58,0.054
+Custom,In Greek Life,None,49,0.329
+Custom,Voted for J. Stein,Facebook,5,0.192
+Custom,Voted for J. Stein,Instagram,5,0.192
+Custom,Voted for J. Stein,Snapchat,1,0.038
+Custom,Voted for J. Stein,Twitter,4,0.154
+Custom,Voted for J. Stein,None,11,0.423
+Custom,GPA 2.0 - 3.0,Facebook,76,0.176
+Custom,GPA 2.0 - 3.0,Instagram,11,0.363
+Custom,GPA 2.0 - 3.0,Snapchat,10,0.023
+Custom,GPA 2.0 - 3.0,Twitter,34,0.079
+Custom,GPA 2.0 - 3.0,None,25,0.36
+Custom,GPA 1.0 - 2.0,Facebook,1,0.03
+Custom,GPA 1.0 - 2.0,Instagram,18,0.545
+Custom,GPA 1.0 - 2.0,Snapchat,2,0.061
+Custom,GPA 1.0 - 2.0,Twitter,4,0.121
+Custom,GPA 1.0 - 2.0,None,8,0.242
+Custom,Does Not Game,Facebook,14,0.147
+Custom,Does Not Game,Instagram,27,0.284
+Custom,Does Not Game,Snapchat,3,0.032
+Custom,Does Not Game,Twitter,6,0.063
+Custom,Does Not Game,None,45,0.474
+Custom,Mobile Gamer,Facebook,1,0.077
+Custom,Mobile Gamer,Instagram,3,0.231
+Custom,Mobile Gamer,None,9,0.692
+Custom,PC Gamer,Facebook,7,0.085
+Custom,PC Gamer,Instagram,18,0.22
+Custom,PC Gamer,Snapchat,1,0.012
+Custom,PC Gamer,Twitter,4,0.049
+Custom,PC Gamer,None,52,0.634
+Custom,Linguistics Major,Facebook,9,0.29
+Custom,Linguistics Major,Instagram,12,0.387
+Custom,Linguistics Major,Snapchat,1,0.032
+Custom,Linguistics Major,Twitter,1,0.032
+Custom,Linguistics Major,None,8,0.258
+Custom,Performing Arts Major,Facebook,3,0.136
+Custom,Performing Arts Major,Instagram,11,0.5
+Custom,Performing Arts Major,Twitter,1,0.045
+Custom,Performing Arts Major,None,7,0.318
+Custom,History Major,Facebook,8,0.205
+Custom,History Major,Instagram,12,0.308
+Custom,History Major,Snapchat,2,0.051
+Custom,History Major,None,17,0.436
+Custom,Job Seeking,Facebook,98,0.205
+Custom,Job Seeking,Instagram,62,0.351
+Custom,Job Seeking,Snapchat,13,0.027
+Custom,Job Seeking,Twitter,25,0.052
+Custom,Job Seeking,None,1,0.364
+Custom,PC Gamer,Facebook,3,0.193
+Custom,PC Gamer,Instagram,1,0.273
+Custom,PC Gamer,Snapchat,25,0.033
+Custom,PC Gamer,Twitter,54,0.072
+Custom,PC Gamer,None,74,0.429
+Custom,Others (Major),Facebook,31,0.242
+Custom,What's your major? Other,Instagram,32,0.25
+Custom,What's your major? Other,Snapchat,3,0.023
+Custom,What's your major? Other,Twitter,7,0.055
+Custom,What's your major? Other,None,55,0.43
+Custom,Others (Language),Facebook,18,0.175
+Custom,Others (Language),Instagram,32,0.311
+Custom,Others (Language),Snapchat,3,0.029
+Custom,Others (Language),Twitter,8,0.078
+Custom,Others (Language),None,42,0.408
+Custom,Bilingual,Facebook,5,0.116
+Custom,Bilingual,Instagram,16,0.372
+Custom,Bilingual,Snapchat,1,0.023
+Custom,Bilingual,Twitter,6,0.14
+Custom,Bilingual,None,15,0.349
+Custom,Spanish Mother Tongue,Facebook,4,0.174
+Custom,Spanish Mother Tongue,Instagram,5,0.217
+Custom,Spanish Mother Tongue,Snapchat,3,0.13
+Custom,Spanish Mother Tongue,Twitter,5,0.217
+Custom,Spanish Mother Tongue,None,6,0.261
+Custom,Joined > 1 Major Organizations,Facebook,14,0.304
+Custom,Joined > 1 Major Organizations,Instagram,9,0.196
+Custom,Joined > 1 Major Organizations,Snapchat,2,0.043
+Custom,Joined > 1 Major Organizations,Twitter,2,0.043
+Custom,Joined > 1 Major Organizations,None,19,0.413
+Custom,Joined 1 Major Organization,Facebook,49,0.257
+Custom,Joined 1 Major Organization,Instagram,65,0.34
+Custom,Joined 1 Major Organization,Snapchat,7,0.037
+Custom,Joined 1 Major Organization,Twitter,10,0.052
+Custom,Joined 1 Major Organization,None,60,0.314
+Custom,Joined 1 Minor Organization,Facebook,66,0.258
+Custom,Joined 1 Minor Organization,Instagram,81,0.316
+Custom,Joined 1 Minor Organization,Snapchat,6,0.023
+Custom,Joined 1 Minor Organization,Twitter,13,0.051
+Custom,Joined 1 Minor Organization,None,90,0.352
+Custom,Did not join Organization,Facebook,20,0.207
+Custom,Did not join Organization,Instagram,32,0.323
+Custom,Did not join Organization,Snapchat,45,0.029
+Custom,Did not join Organization,Twitter,105,0.068
+Custom,Did not join Organization,None,15,0.372
+Custom,Workout >10hrs/month,Facebook,12,0.179
+Custom,Workout >10hrs/month,Instagram,24,0.358
+Custom,Workout >10hrs/month,Snapchat,5,0.075
+Custom,Workout >10hrs/month,Twitter,1,0.015
+Custom,Workout >10hrs/month,None,25,0.373
+Custom,Workout 1hrs-10hrs/month,Facebook,92,0.253
+Custom,Workout 1hrs-10hrs/month,Instagram,123,0.339
+Custom,Workout 1hrs-10hrs/month,Snapchat,9,0.025
+Custom,Workout 1hrs-10hrs/month,Twitter,27,0.074
+Custom,Workout 1hrs-10hrs/month,None,112,0.309
+Custom,Hispanic,Facebook,20,0.177
+Custom,Hispanic,Instagram,38,0.336
+Custom,Hispanic,Snapchat,3,0.027
+Custom,Hispanic,Twitter,11,0.097
+Custom,Hispanic,None,41,0.363
+Custom,Technical Major,Facebook,95,0.224
+Custom,Technical Major,Instagram,6,0.256
+Custom,Technical Major,Snapchat,27,0.038
+Custom,Technical Major,Twitter,40,0.056
+Custom,Technical Major,None,15,0.426
+Custom,Computer Science Major,Facebook,18,0.261
+Custom,Computer Science Major,Instagram,19,0.275
+Custom,Computer Science Major,Snapchat,1,0.014
+Custom,Computer Science Major,Twitter,3,0.043
+Custom,Computer Science Major,None,28,0.406
+Custom,Post-Graduate,Facebook,15,0.158
+Custom,Post-Graduate,Instagram,35,0.368
+Custom,Post-Graduate,Snapchat,1,0.011
+Custom,Post-Graduate,Twitter,1,0.011
+Custom,Post-Graduate,None,43,0.453
+Custom,Part-Time Job,Facebook,11,0.202
+Custom,Part-Time Job,Instagram,26,0.328
+Custom,Part-Time Job,Snapchat,12,0.016
+Custom,Part-Time Job,Twitter,56,0.077
+Custom,Part-Time Job,None,3,0.376
+Custom,Others (Major),Facebook,88,0.209
+Custom,Others (Major),Instagram,75,0.37
+Custom,Others (Major),Snapchat,9,0.021
+Custom,Others (Major),Twitter,26,0.062
+Custom,Others (Major),None,16,0.339
+Custom,Philosophy Major,Facebook,38,0.232
+Custom,Philosophy Major,Instagram,58,0.354
+Custom,Philosophy Major,Snapchat,4,0.024
+Custom,Philosophy Major,Twitter,8,0.049
+Custom,Philosophy Major,None,56,0.341
+Custom,College,Facebook,1,0.215
+Custom,College,Instagram,5,0.336
+Custom,College,Snapchat,74,0.032
+Custom,College,Twitter,1,0.065
+Custom,College,None,62,0.353
+Custom,High School,Facebook,29,0.105
+Custom,High School,Instagram,96,0.347
+Custom,High School,Snapchat,14,0.051
+Custom,High School,Twitter,32,0.116
+Custom,High School,None,106,0.383
+Custom,High School,Facebook,4,0.194
+Custom,No workout,Instagram,38,0.309
+Custom,No workout,Snapchat,39,0.033
+Custom,No workout,Twitter,78,0.065
+Custom,No workout,None,96,0.399
+Custom,Others (Leaning),Facebook,4,0.196
+Custom,Others (Leaning),Instagram,39,0.317
+Custom,Others (Leaning),Snapchat,22,0.033
+Custom,Others (Leaning),Twitter,36,0.054
+Custom,Others (Leaning),None,78,0.4
+Custom,Muslim,Facebook,3,0.143
+Custom,Muslim,Instagram,5,0.238
+Custom,Muslim,Snapchat,3,0.143
+Custom,Muslim,Twitter,2,0.095
+Custom,Muslim,None,8,0.381
+Custom,Christian,Facebook,3,0.208
+Custom,Christian,Instagram,11,0.348
+Custom,Christian,Snapchat,29,0.026
+Custom,Christian,Twitter,85,0.076
+Custom,Christian,None,51,0.342
+Custom,Graduation Year 2017,Facebook,61,0.274
+Custom,Graduation Year 2017,Instagram,62,0.278
+Custom,Graduation Year 2017,Snapchat,8,0.036
+Custom,Graduation Year 2017,Twitter,5,0.022
+Custom,Graduation Year 2017,None,87,0.39
+Custom,Graduation Year 2018,Facebook,88,0.244
+Custom,Graduation Year 2018,Instagram,114,0.317
+Custom,Graduation Year 2018,Snapchat,12,0.033
+Custom,Graduation Year 2018,Twitter,17,0.047
+Custom,Graduation Year 2018,None,27,0.358
+Custom,GPA > 4.0,Facebook,19,0.131
+Custom,GPA > 4.0,Instagram,55,0.379
+Custom,GPA > 4.0,Snapchat,5,0.034
+Custom,GPA > 4.0,Twitter,10,0.069
+Custom,GPA > 4.0,None,56,0.386
+Custom,Graduation Year 2019,Facebook,5,0.262
+Custom,Graduation Year 2019,Instagram,61,0.345
+Custom,Graduation Year 2019,Snapchat,24,0.028
+Custom,Graduation Year 2019,Twitter,46,0.055
+Custom,Graduation Year 2019,None,23,0.31
+Custom,Graduation Year 2020,Facebook,74,0.155
+Custom,Graduation Year 2020,Instagram,25,0.314
+Custom,Graduation Year 2020,Snapchat,15,0.031
+Custom,Graduation Year 2020,Twitter,47,0.099
+Custom,Graduation Year 2020,None,111,0.4
+Custom,White,Facebook,2,0.224
+Custom,White,Instagram,39,0.317
+Custom,White,Snapchat,47,0.03
+Custom,White,Twitter,102,0.065
+Custom,White,None,68,0.365
+Custom,Straight,Facebook,2,0.18
+Custom,Straight,Instagram,2,0.297
+Custom,Straight,Snapchat,44,0.037
+Custom,Straight,Twitter,88,0.074
+Custom,Straight,None,105,0.412
