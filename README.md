@@ -41,6 +41,7 @@ The residual standard error improved to from 0.1569 to 0.1259 which is an improv
 <br />
 <br />
 
+![scaled](/results/scaled-data.png) <br />
 5. **Min-Max Scaling** - Scales values (Did not affect skewness hence not fitting and not utilized.)
 <br />
 <br />
@@ -52,8 +53,9 @@ Findings:
 Amongst the five categories, ‘University’ and ‘Web’ have p-values that are less than 0.05, indicating a rejected null hypothesis whereas the other 3 variables have a p-value greater than 0.05, hence an accepted null hypothesis.
 
 ## Data Modelling
+![sil-model-opt-clusters](/results/sil-model-opt-clusters.png) <br />
+
 Identify Optimal Clusters:
-![sil-model-opt-clusters](/results/sil-model-opt-clusters.png) 
 7. **Silhouette Method** <br />
 The optimal number of clusters are determined with the silhouette method algorithm onto the test dataset. Here, it determines the optimal number of clusters to be 4 cluster points. 
 <br />
