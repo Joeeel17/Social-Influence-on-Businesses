@@ -15,11 +15,10 @@ The study was conducted on a great foundation of research and literature review,
 As part of creating realistic and more applicable insights, the study  conducted a data gathering phase (within Malaysia) where responses were exported and used as the test dataset. Hence, key insights found are applicable to local culture and environment. Once exported, dataset is categorized to four main demographics according to the responses; Gender, Age, Location and Employment Status.   
 
 ## Machine Learning Algorithms Applied
-###### Exploratory Data Analysis
+## Exploratory Data Analysis
 -------------------------
 ![hampel-filter](/results/hampel-filter.png)
-1. **Hampel Filter** 
-Detect possible outliers and deals with extreme outliers. 
+1. **Hampel Filter** - Detect possible outliers and deals with extreme outliers. 
 <br />
 <br />
 ![ros-test](/results/ros-test.png)
@@ -69,28 +68,27 @@ Clustering Models:
 11. **K-Prototype** - Improved adaptation of K-Means as it is more fitting for categorical/mixed datasets.
 12. **Levenshtein Model** - Clusters based on string distance matrix. 
 
-###### Evaluation: 
+Evaluation: 
 13. **Silhouette Width** (Refer to below)
 
 
 ## Evaluation
--------------------------
 To validate the accuracy of the clusters, the Silhouette Width is utilized. The algorithm operates by measuring the similarity of objects within each cluster between the range of -1 and 1 where the value closer to 1 resembles a well-matched object within the cluster. With that, the following depicts the Silhouette Width being enacted onto the three clustering model results prior to comparison.
 
-![sil-wid-pam](/results/sil-wid-pam.png)
+![sil-wid-pam](/results/sil-wid-pam.png)<br />
 Silhouette Width of PAM Clustering
 
-![sil-wid-pam](/results/sil-wid-kp.png)
+![sil-wid-pam](/results/sil-wid-kp.png)<br />
 Silhouette Width of K-Prototype
 
-![sil-wid-pam](/results/sil-wid-lv.png)
+![sil-wid-pam](/results/sil-wid-lv.png)<br />
 Silhouette Width of Levenshtein Model
 
 ![final-evaluation-sil-wid](/results/final-evaluation-sil-wid.png)
 
 The model with the best silhouette width average is the Partition Around Medoids (PAM) with the average of 0.44. With that, the evaluation is completed where the PAM model will be deployed onto the test dataset.
 
-## Results & Fidings
+## Results & Findings
 ![res-1](/results/test-dataset-res.png)
 
 Cluster 3 is identified to be the most dominant cluster amongst three demographics, whilst cluster 1 and 2 is seen to be the co-leading clusters for the ‘Working Status’ data frame. For the ‘Gender’, ‘Location’ and ‘Age’ sets, cluster 3 primarily consists of one primary social media platform, that is ‘Twitter’, followed by ‘Snapchat’. This contrasts from the ‘Working Status’ demographic where the most influential social media platform is ‘Instagram’ followed by ‘Facebook’. Furthermore, within the ‘Working Status’ demographic, an interesting underlying pattern discovered is how there is an entire cluster comprising only of respondents  who answered with ‘Twitter’. Aside from that, more hidden patterns are noticed within all the sets. Firstly, ‘Instagram’ is seen to have a solid proportion within each cluster which resembles its strength of influence regardless of demographic difference. Next, an underlying trend is identified, where respondents who answered ‘Twitter’ are often grouped together in a bunch in contrast to the other options. This could resemble the distinction of preference from users who are influenced by ‘Twitter’.
