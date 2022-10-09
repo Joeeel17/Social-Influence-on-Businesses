@@ -55,22 +55,22 @@ Amongst the five categories, ‘University’ and ‘Web’ have p-values that a
 ## Data Modelling
 ![sil-model-opt-clusters](/results/sil-model-opt-clusters.png) <br />
 
-Identify Optimal Clusters:
+Identify Optimal Clusters: <br />
 7. **Silhouette Method** <br />
 The optimal number of clusters are determined with the silhouette method algorithm onto the test dataset. Here, it determines the optimal number of clusters to be 4 cluster points. 
 <br />
 <br />
 
-Distance Measures: 
-8. **Gower Distance** - Used for PAM Clustering and K-Prototypes
-9. **Levenshtein Distance** - Used for Levenshtein Model.
+Distance Measures: <br />
+8. **Gower Distance** - Used for PAM Clustering and K-Prototypes <br />
+9. **Levenshtein Distance** - Used for Levenshtein Model. <br />
 
-Clustering Models:
-10. **PAM Clustering** - Works well with Gower distance. 
-11. **K-Prototype** - Improved adaptation of K-Means as it is more fitting for categorical/mixed datasets.
-12. **Levenshtein Model** - Clusters based on string distance matrix. 
+Clustering Models: <br />
+10. **PAM Clustering** - Works well with Gower distance. <br />
+11. **K-Prototype** - Improved adaptation of K-Means as it is more fitting for categorical/mixed datasets. <br />
+12. **Levenshtein Model** - Clusters based on string distance matrix. <br />
 
-Evaluation: 
+Evaluation: <br />
 13. **Silhouette Width** (Refer to below)
 
 
