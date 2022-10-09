@@ -16,21 +16,23 @@ As part of creating realistic and more applicable insights, the study  conducted
 
 ## Machine Learning Algorithms Applied
 ## Exploratory Data Analysis
--------------------------
 ![hampel-filter](/results/hampel-filter.png)
 1. **Hampel Filter** - Detect possible outliers and deals with extreme outliers. 
 <br />
 <br />
+
 ![ros-test](/results/ros-test.png)
 ![ros-test-2](/results/ros-test-2.png)
 2. **Rosners' Test** - Confirmation of outliers. 
 <br />
 <br />
+
 ![winsor-imp](/results/winsor-imp.png)
 ![winsor-imp-2](/results/winsor-imp-2.png)
 3. **Winsorization** - Alternative to eliminating outliers, that is to impute  mean values to replace them. 
 <br />
 <br />
+
 ![log-trans](/results/log-trans.png)
 4. **Log Transformation** - Selected option as it was more fitting for dataset as the dataset is left-skewed.
 <br />
@@ -38,27 +40,28 @@ Findings:
 The residual standard error improved to from 0.1569 to 0.1259 which is an improvement to the  previous attempt (NOT SHOWN). That being noted, the residual stand error decreased which means that the regression model fits better hence selected.
 <br />
 <br />
+
 5. **Min-Max Scaling** - Scales values 
 <br />
 Findings:
 Did not affect skewness hence not fitting and not utilized.
 <br />
 <br />
+
 ![chi-square](/results/chi-square.png)
 6. **Pearson's Chi-Squared Test** - Association measurement between categorical variables. 
 <br />
 Findings:
 Amongst the five categories, ‘University’ and ‘Web’ have p-values that are less than 0.05, indicating a rejected null hypothesis whereas the other 3 variables have a p-value greater than 0.05, hence an accepted null hypothesis.
 
-###### Data Modelling
--------------------------
+## Data Modelling
 Identify Optimal Clusters:
 ![sil-model-opt-clusters](/results/sil-model-opt-clusters.png)
-7. **Silhouette Method**
-<br />
+7. **Silhouette Method** <br />
 The optimal number of clusters are determined with the silhouette method algorithm onto the test dataset. Here, it determines the optimal number of clusters to be 4 cluster points. 
 <br />
 <br />
+
 Distance Measures: 
 8. **Gower Distance** - Used for PAM Clustering and K-Prototypes
 9. **Levenshtein Distance** - Used for Levenshtein Model.
@@ -91,11 +94,13 @@ The model with the best silhouette width average is the Partition Around Medoids
 ## Results & Findings
 ![res-1](/results/test-dataset-res.png)
 
-Cluster 3 is identified to be the most dominant cluster amongst three demographics, whilst cluster 1 and 2 is seen to be the co-leading clusters for the ‘Working Status’ data frame. For the ‘Gender’, ‘Location’ and ‘Age’ sets, cluster 3 primarily consists of one primary social media platform, that is ‘Twitter’, followed by ‘Snapchat’. This contrasts from the ‘Working Status’ demographic where the most influential social media platform is ‘Instagram’ followed by ‘Facebook’. Furthermore, within the ‘Working Status’ demographic, an interesting underlying pattern discovered is how there is an entire cluster comprising only of respondents  who answered with ‘Twitter’. Aside from that, more hidden patterns are noticed within all the sets. Firstly, ‘Instagram’ is seen to have a solid proportion within each cluster which resembles its strength of influence regardless of demographic difference. Next, an underlying trend is identified, where respondents who answered ‘Twitter’ are often grouped together in a bunch in contrast to the other options. This could resemble the distinction of preference from users who are influenced by ‘Twitter’.
+Cluster 3 is identified to be the most dominant cluster amongst three demographics, whilst cluster 1 and 2 is seen to be the co-leading clusters for the ‘Working Status’ data frame. For the ‘Gender’, ‘Location’ and ‘Age’ sets, cluster 3 primarily consists of one primary social media platform, that is ‘Twitter’, followed by ‘Snapchat’. This contrasts from the ‘Working Status’ demographic where the most influential social media platform is ‘Instagram’ followed by ‘Facebook’. Furthermore, within the ‘Working Status’ demographic, an interesting underlying pattern discovered is how there is an entire cluster comprising only of respondents  who answered with ‘Twitter’. Aside from that, more hidden patterns are noticed within all the sets. Firstly, ‘Instagram’ is seen to have a solid proportion within each cluster which resembles its strength of influence regardless of demographic difference. Next, an underlying trend is identified, where respondents who answered ‘Twitter’ are often grouped together in a bunch in contrast to the other options. This could resemble the distinction of preference from users who are influenced by ‘Twitter’. <br />
+
 
 ![res-2](/results/test-dataset-res-2.png)
 
-The stacked barplot above visualizes cluster 3 of each set. With that, it is observed how through the first three sets, there is a clear preference of ‘Twitter’ and ‘Snapchat’. Firstly, within the ‘Gender’ category, it is noted how the clustering presents ‘Snapchat’ only selected by females rather than males. The same pattern can be seen in the following two clusters, where there are sole categories with only ‘Twitter’ as their most influential social media platform, such as respondents from ‘Johor Bahru’ and ‘Negeri Sembilan’ as well as respondents aging from ’25-39’. In terms of individual cluster analysis, it is interesting to note that there are two categories that have ‘Snapchat’ equal or greater than the latter social media platform. This is evident in respondents from ‘Penang’ (from the ‘Location’ set) and ’15-19’ (from the ‘Age’ set). Particularly for the age demographic, it is significant to highlight how the preference of ‘Snapchat’ for the age ’15-19’ is stronger than for ‘Instagram’. Lastly, for the cluster 3 of the ‘Working Status’. There is no distinct pattern aside from how ‘Facebook’ is seen to be slightly favorited. More deep diving analysis for the ‘Working Status’ set will be conducted. 
+The stacked barplot above visualizes cluster 3 of each set. With that, it is observed how through the first three sets, there is a clear preference of ‘Twitter’ and ‘Snapchat’. Firstly, within the ‘Gender’ category, it is noted how the clustering presents ‘Snapchat’ only selected by females rather than males. The same pattern can be seen in the following two clusters, where there are sole categories with only ‘Twitter’ as their most influential social media platform, such as respondents from ‘Johor Bahru’ and ‘Negeri Sembilan’ as well as respondents aging from ’25-39’. In terms of individual cluster analysis, it is interesting to note that there are two categories that have ‘Snapchat’ equal or greater than the latter social media platform. This is evident in respondents from ‘Penang’ (from the ‘Location’ set) and ’15-19’ (from the ‘Age’ set). Particularly for the age demographic, it is significant to highlight how the preference of ‘Snapchat’ for the age ’15-19’ is stronger than for ‘Instagram’. Lastly, for the cluster 3 of the ‘Working Status’. There is no distinct pattern aside from how ‘Facebook’ is seen to be slightly favorited. More deep diving analysis for the ‘Working Status’ set will be conducted.  <br />
+
 
 ![res-3](/results/test-dataset-res-3.png)
 
