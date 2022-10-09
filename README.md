@@ -22,18 +22,18 @@ As part of creating realistic and more applicable insights, the study  conducted
 <br />
 
 ![ros-test](/results/ros-test.png)
-![ros-test-2](/results/ros-test-2.png)
+![ros-test-2](/results/ros-test-2.png) <br />
 2. **Rosners' Test** - Confirmation of outliers. 
 <br />
 <br />
 
 ![winsor-imp](/results/winsor-imp.png)
-![winsor-imp-2](/results/winsor-imp-2.png)
+![winsor-imp-2](/results/winsor-imp-2.png) <br />
 3. **Winsorization** - Alternative to eliminating outliers, that is to impute  mean values to replace them. 
 <br />
 <br />
 
-![log-trans](/results/log-trans.png)
+![log-trans](/results/log-trans.png) <br />
 4. **Log Transformation** - Selected option as it was more fitting for dataset as the dataset is left-skewed.
 <br />
 Findings:
@@ -41,14 +41,11 @@ The residual standard error improved to from 0.1569 to 0.1259 which is an improv
 <br />
 <br />
 
-5. **Min-Max Scaling** - Scales values 
-<br />
-Findings:
-Did not affect skewness hence not fitting and not utilized.
+5. **Min-Max Scaling** - Scales values (Did not affect skewness hence not fitting and not utilized.)
 <br />
 <br />
 
-![chi-square](/results/chi-square.png)
+![chi-square](/results/chi-square.png) <br />
 6. **Pearson's Chi-Squared Test** - Association measurement between categorical variables. 
 <br />
 Findings:
@@ -56,7 +53,7 @@ Amongst the five categories, ‘University’ and ‘Web’ have p-values that a
 
 ## Data Modelling
 Identify Optimal Clusters:
-![sil-model-opt-clusters](/results/sil-model-opt-clusters.png)
+![sil-model-opt-clusters](/results/sil-model-opt-clusters.png) 
 7. **Silhouette Method** <br />
 The optimal number of clusters are determined with the silhouette method algorithm onto the test dataset. Here, it determines the optimal number of clusters to be 4 cluster points. 
 <br />
