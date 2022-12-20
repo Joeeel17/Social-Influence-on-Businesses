@@ -105,4 +105,14 @@ The stacked barplot above visualizes cluster 3 of each set. With that, it is obs
 
 Like the other three dominant clusters in other sets, ‘Instagram’ is seen to have a solid ratio amongst the clusters. Additionally, there is also a lack of influence from ‘Facebook’ as there are no strong significance proving so. As for ‘Snapchat’, it is again noted of how it is popular amongst the younger age group (as previously justified in the ‘Age’ set), that is in the ‘High School Graduate’ category in cluster 2. 
 
+## Dashboard Implementation
+![fyp_dashboard](/results/fyp_dashboard.png)
 
+Findings are then developed into a dashboard created using Laravel 8 and PHP. The dashboard will primarily depict the overall perspective of the data, unique segments set for this study and findings per segments. Moreover, the user will have the ability to use the dropdown menu to select the particular desired cluster. With this, users are able to understand:
+1. General popularity of each social media platform
+2. Metadata about available segment types
+3. Correlation between popularity of social media amongst certain demographics via findings of the clustering analysis
+
+![fyp_dashboard](/results/fyp_dashboard_cluster_3.png)
+
+Due to time constraints, only the most dominant cluster of each segment is enabled. 
